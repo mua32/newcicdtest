@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "copied_from": null,
+  "description": null,
+  "enable_parameterized_testing": false,
+  "name": "ImpersonateUSer",
+  "parameters": null,
+  "remember": null,
+  "sys_class_name": "sys_atf_test",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-08-27 07:30:01",
+  "sys_id": "b6d64b89dbe3f700e76e771c8c961973",
+  "sys_mod_count": 0,
+  "sys_name": "ImpersonateUSer",
+  "sys_package": "6086cbc1dbe3f700e76e771c8c9619c7",
+  "sys_policy": null,
+  "sys_scope": "6086cbc1dbe3f700e76e771c8c9619c7",
+  "sys_update_name": "sys_atf_test_b6d64b89dbe3f700e76e771c8c961973",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-08-27 07:30:01"
+}
